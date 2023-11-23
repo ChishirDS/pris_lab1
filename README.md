@@ -10,7 +10,7 @@
 Клонирование репозитория
 
 ```
-git clone 
+git clone https://github.com/ChishirDS/pris_lab1.git
 ```
 
 Установка виртуального окружения:
